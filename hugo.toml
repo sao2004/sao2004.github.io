@@ -1,0 +1,7 @@
+baseURL = "https://sao2004.github.io/blog"
+languageCode = "en-us"
+title = "My Blog"
+theme = "blowfish"
+
+enableRobotsTXT = true
+summaryLength = 30

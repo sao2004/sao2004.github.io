@@ -5,3 +5,5 @@ resources/_gen/
 .cache/
 
 .env
+.obsidian
+Templates

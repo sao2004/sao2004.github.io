@@ -1,7 +1,15 @@
 [[main]]
+identifier = "posts"
 name = "Posts"
-pageRef = "posts"
 weight = 10
+hasChildren = true
+
+[[main]]
+identifier = "java-journey"
+name = "Java Journey"
+pageRef = "posts/java-journey"
+parent = "posts"
+weight = 11
 
 [[main]]
 name = "Projects"

@@ -1,4 +1,4 @@
-baseURL = "https://sao2004.github.io/blog"
+baseURL = "https://sao2004.github.io"
 languageCode = "en-us"
 title = "My Blog"
 theme = "blowfish"

@@ -2,15 +2,15 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blog"
+title = "Home"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  #logo = "img/profile.png"
+  #secondaryLogo = "img/profile.png"
   description = "Programming, Linux, personal projects and whatnot"
   # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -20,7 +20,7 @@ title = "Blog"
    image = "img/profile.png"
 #   imageQuality = 96
    headline = "Computer Science Student"
-   bio = "Second brain"
+   bio = "Computer Science student with a focus on backend development and systems programming. Currently an intern at BMW TechWorks"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -45,7 +45,7 @@ title = "Blog"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-     { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://www.linkedin.com/in/stefan-alexandru-onofrei-a186a5394/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },

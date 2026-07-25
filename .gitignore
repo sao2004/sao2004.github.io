@@ -6,4 +6,5 @@ resources/_gen/
 
 .env
 .obsidian
+.trash/
 Templates

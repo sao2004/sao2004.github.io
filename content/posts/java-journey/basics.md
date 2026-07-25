@@ -45,9 +45,9 @@ Java is a General-Purpose, Object-Oriented Programming Language that is guarante
 1. Use meaningful variable and method names
 2. Keep methods short and focused
 3. Favor composition over inheritance
-4. Handle exceptions properly — don't swallow them silently
-5. Avoid using `null` — prefer `Optional`
+4. Handle exceptions properly  - don't swallow them silently
+5. Avoid using `null` - prefer `Optional`
 6. Stick to consistent coding conventions (indentation, naming)
 7. Use `final` where possible to make code more predictable
-8. Write unit tests alongside your code, not after — they catch regressions early
-9. Prefer immutability where practical — fewer moving parts means fewer bugs
+8. Write unit tests alongside your code, not after - they catch regressions early
+9. Prefer immutability where practical - fewer moving parts means fewer bugs

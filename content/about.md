@@ -20,10 +20,12 @@ Outside of coursework, I've completed a Cybersecurity Seminars scholarship progr
 
 - 3rd place, Capture the Flag STS 2025
 - IC3 Digital Literacy Certification (Certiport)
-- Oracle Academy Certifications — Database Design & Database Programming with SQL
+- Oracle Academy Certifications - Database Design & Database Programming with SQL
 
 Feel free to look around, and reach out via the links below if you'd like to connect.
 
 [GitHub](https://github.com/sao2004)
 
 [LinkedIn](https://www.linkedin.com/in/stefan-alexandru-onofrei-a186a5394)
+
+*Built with [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page) theme.*
